@@ -4,7 +4,7 @@ import Header from "./containers/Header";
 import ProductListing from './containers/ProductListing';
 import ProductDetail from './containers/ProductDetail';
 import "./App.css"
-// import 'semantic-ui-css/semantic.min.css';
+import 'semantic-ui-css/semantic.min.css';
 
 function App() {
   return (
